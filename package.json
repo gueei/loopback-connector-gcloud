@@ -26,14 +26,18 @@
         "url": "https://github.com/mintedio/loopback-connector-gcloud/issues"
     },
     "homepage": "https://github.com/mintedio/loopback-connector-gcloud",
-    "maintainers": [{
-        "name": "ianzepp",
-        "email": "ian.zepp@gmail.com"
-    }, {
-        "name": "mintedio",
-        "email": "hello@minted.io"
-    }],
+    "maintainers": [
+        {
+            "name": "ianzepp",
+            "email": "ian.zepp@gmail.com"
+        },
+        {
+            "name": "mintedio",
+            "email": "hello@minted.io"
+        }
+    ],
     "dependencies": {
+        "@google-cloud/datastore": "^1.4.0",
         "assert": ">=1.4.1",
         "debug": ">=2.2.0",
         "lodash": ">=4.14.0",
