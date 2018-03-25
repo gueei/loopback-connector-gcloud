@@ -36,7 +36,6 @@
     "dependencies": {
         "assert": ">=1.4.1",
         "debug": ">=2.2.0",
-        "gcloud": ">=0.37.0",
         "lodash": ">=4.14.0",
         "loopback-connector": ">=2.4.0",
         "loopback-datasource-juggler": ">=2.47.0"
